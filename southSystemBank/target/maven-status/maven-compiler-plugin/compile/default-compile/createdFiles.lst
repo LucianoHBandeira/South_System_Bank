@@ -1,0 +1,17 @@
+com\southSystemBank\lhb\rest\controller\SouthSystemBankRestController.class
+com\southSystemBank\lhb\model\Limite.class
+com\southSystemBank\lhb\repository\PessoasJuridicasRepository.class
+com\southSystemBank\lhb\exceptionhandler\ErroValidacao.class
+com\southSystemBank\lhb\SouthSystemBankApplication.class
+com\southSystemBank\lhb\model\Conta.class
+com\southSystemBank\lhb\repository\PessoasFisicasRepository.class
+com\southSystemBank\lhb\model\Pessoa.class
+com\southSystemBank\lhb\service\SouthSystemBankService.class
+com\southSystemBank\lhb\model\PessoaJuridica.class
+com\southSystemBank\lhb\service\SouthSystemBankServiceImp.class
+com\southSystemBank\lhb\model\PessoaFisica.class
+com\southSystemBank\lhb\repository\ContasRepository.class
+com\southSystemBank\lhb\repository\PessoasRepository.class
+com\southSystemBank\lhb\exceptionhandler\ApiExceptionHandler.class
+com\southSystemBank\lhb\repository\LimitesRepository.class
+com\southSystemBank\lhb\exceptionhandler\ErroValidacao$Campo.class
